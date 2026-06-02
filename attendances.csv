@@ -1,0 +1,11 @@
+﻿AttendanceID,EmployeeID,AttendanceDate,Status,WorkingHours
+A001,E101,01-05-2025,Present,8
+A002,E102,01-05-2025,Present,9
+A003,E103,01-05-2025,Absent,0
+A004,E104,01-05-2025,Present,7
+A005,E105,01-05-2025,Present,8
+A006,E106,01-05-2025,Present,10
+A007,E107,01-05-2025,Leave,0
+A008,E108,01-05-2025,Present,9
+A009,E109,01-05-2025,Present,8
+A010,E110,01-05-2025,Present,6

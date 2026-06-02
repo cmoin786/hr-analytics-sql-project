@@ -1,0 +1,11 @@
+﻿EmployeeID,EmployeeName,Gender,Age,DepartmentID,JobTitle,Salary,HireDate,City
+E101,Ayaan Khan,Male,25,D01,Data Analyst,45000,2022-01-15,Delhi
+E102,Sara Ali,Female,29,D02,HR Manager,60000,2021-03-10,Mumbai
+E103,Rohit Sharma,Male,31,D03,Software Engineer,75000,2020-06-18,Bangalore
+E104,Neha Verma,Female,27,D01,BI Analyst,52000,2023-02-11,Delhi
+E105,Arjun Singh,Male,35,D04,Sales Executive,40000,2019-08-25,Jaipur
+E106,Priya Mehta,Female,30,D03,Senior Developer,90000,2018-12-12,Pune
+E107,Imran Khan,Male,26,D05,Accountant,47000,2022-11-09,Lucknow
+E108,Kavya Rao,Female,28,D04,Sales Manager,68000,2021-09-14,Hyderabad
+E109,Rahul Jain,Male,32,D03,Team Lead,110000,2017-04-01,Bangalore
+E110,Anjali Kapoor,Female,24,D01,Junior Analyst,38000,2024-01-20,Delhi

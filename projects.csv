@@ -1,0 +1,6 @@
+﻿ProjectID,ProjectName,DepartmentID,Budget,StartDate
+P101,Sales Dashboard,D01,500000,01-01-2025
+P102,HR Automation,D02,300000,15-02-2025
+P103,AI Chatbot,D03,900000,10-03-2025
+P104,CRM Upgrade,D04,700000,25-01-2025
+P105,Audit System,D05,400000,01-04-2025
